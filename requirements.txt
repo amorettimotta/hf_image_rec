@@ -1,0 +1,6 @@
+gradio
+Pillow
+numpy
+torch
+transformers
+requests
